@@ -1,0 +1,33 @@
+body {
+    background:grey;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin-right: 40px;
+}
+
+button {
+    border: none;
+    border-radius: 50%;
+    margin-top: 1em;
+    padding: .5em;
+    color: antiquewhite;
+    background-color: aqua;
+    text-decoration: none;
+    
+}
+
+button:hover,
+button:focus {
+    background-color: antiquewhite;
+    color: aqua;
+}
+
+a:link,
+a:after
+a:visited { 
+    text-decoration: none;
+}
